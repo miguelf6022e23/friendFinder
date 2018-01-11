@@ -6,11 +6,11 @@
 
 var friends = [
   {
-    name: "Ahmed",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    name: "Marc Anthony",
+    photo: "https://www.biography.com/.image/t_share/MTE1ODA0OTcxNDMzMTY2MzQ5/marc-anthony-241193-1-402.jpg",
     scores: [
       "5",
-      "1",
+      "5",
       "4",
       "4",
       "5",
@@ -22,14 +22,14 @@ var friends = [
     ]
   },
   {
-    name: "Jacob Deming",
-    photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    name: "Romeo Santos",
+    photo: "https://i.ytimg.com/vi/8iPcqtHoR3U/maxresdefault.jpg",
     scores: [
       "4",
       "2",
       "5",
       "1",
-      "3",
+      "5",
       "2",
       "2",
       "1",
@@ -38,8 +38,8 @@ var friends = [
     ]
   },
   {
-    name: "Jeremiah Scanlon",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    name: "Luis Enrique",
+    photo: "https://www.billboard.com/files/stylus/107593-juan_luis_guerra_617_409.jpg",
     scores: [
       "5",
       "2",
@@ -54,10 +54,10 @@ var friends = [
     ]
   },
   {
-    name: "Louis T. Delia",
-    photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+    name: "Shakira",
+    photo: "http://trace.tv/wp-content/uploads/2017/11/shakira-portrait-may-2017-billboard-1548.jpg",
     scores: [
-      "3",
+      "1",
       "3",
       "4",
       "2",
@@ -70,15 +70,15 @@ var friends = [
     ]
   },
   {
-    name: "Lou Ritter",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    name: "Enrique Iglesias",
+    photo: "https://a2-images.myspacecdn.com/images04/4/c3989a00e2954580a2748273a5727887/300x300.jpg",
     scores: [
       "4",
       "3",
       "4",
-      "1",
+      "3",
+      "4",
       "5",
-      "2",
       "5",
       "3",
       "1",
@@ -86,12 +86,12 @@ var friends = [
     ]
   },
   {
-    name: "Jordan Biason",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    name: "Pitbull",
+    photo: "https://www.thefamouspeople.com/profiles/images/og-pitbull-6049.jpg",
     scores: [
       "4",
       "4",
-      "2",
+      "5",
       "3",
       "2",
       "2",
